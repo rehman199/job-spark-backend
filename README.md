@@ -1,7 +1,3 @@
-# README
-
-Sure, here's a basic template for a README.md file for a Ruby on Rails application:
-
 # Job Spark Backend
 
 Backend for the Job Spark ( A Job Application Board ) application
